@@ -34,7 +34,7 @@
 # [安装]
 ## 1. 安装后遇到tensorflow问题(报错)
 
-#  一、 tensorflow==2.11.0报错报错信息与解决办法:
+#  一、 tensorflow==2.11.0报错信息与解决办法:
 ### 一、 没有找到[libtensorflow_io.so]模块错误:  
   - 在安装 tensorflow 后 python3中测试报错信息中为 The file to load file system plugin from does not exist.:[libtensorflow_io.so] 即为 [libtensorflow_io.so] 模块没有找到,通过以下步骤解决
   - 在 python 中测试结果如下:
